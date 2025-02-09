@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: default
 ---
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="assets/css/style.css">
 
 # Dobrodošli na moj sajt
 

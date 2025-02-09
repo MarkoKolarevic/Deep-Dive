@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Naslov prvog teksta"
 date: 2025-02-09
 ---
