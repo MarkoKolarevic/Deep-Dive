@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<link rel="stylesheet" href="css/style.css">
+
 # Dobrodošli na moj sajt
 
 ## Test
