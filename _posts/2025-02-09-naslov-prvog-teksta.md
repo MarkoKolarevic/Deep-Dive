@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: "Naslov prvog teksta"
 date: 2025-02-09
 ---
