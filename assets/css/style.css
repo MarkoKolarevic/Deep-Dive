@@ -5,3 +5,8 @@ body {
 
     background: #4DAEA8;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
