@@ -63,12 +63,11 @@ Markdown je veoma moćan alat za brzo i jednostavno formatiranje teksta što ga 
 
 Ukoliko želiš da pogledaš kako ovaj tekst izgleda u Markdown-u, klikni [ovde](https://github.com/MarkoKolarevic/Deep-Dive/blob/main/_posts/2025-02-09-naslov-prvog-teksta.md?plain=1).
 
-_Vreme je dragoceno. Zato bih želeo da Vam se zahvalim što ste deo svog vremena podelili sa mnom i pročitali ovaj post._
 
-_Nadam se da Vam je bio koristan._
-
-_Ako imate pitanja bilo kakvih pitanja, molim Vas, mene nemojte ništa da pitate. Ali, ako želite da podelite svoja razmišljanja, slobodno se javite 😊️_
-
-_Takođe, svaka sugestija ili komentar je dobrodošao._
-
-_Ako Vam se ovaj post dopao, ne zaboravite da proverite i sledeće. U budućnosti planiram još mnogo zanimljivih tema. Nadam se da ćete nastaviti da pratite i čitate, jer želim da zajedno učimo i rastemo kroz ove postove._
+> ### Reč kreatora
+>
+> _Vreme je dragoceno. Zato bih želeo da Vam se zahvalim što ste deo svog vremena podelili sa mnom i pročitali ovaj post._
+>
+>_Nadam se da Vam je bio koristan.__
+>
+>_Ako Vam se ovaj post dopao, ne zaboravite da proverite i sledeće. U budućnosti planiram još mnogo zanimljivih tema. Nadam se da ćete nastaviti da pratite i čitate, jer želim da zajedno učimo i rastemo kroz ove postove._
