@@ -21,8 +21,8 @@ Markdown se lako može pretvoriti u HTML, što je izuzetno korisno za blogove i 
 - **Čitljivost**: 
 Čak i bez konvertovanja u HTML, tekst napisan u Markdown-u ostaje čitljiv.
 
-<img src="/assets/images/MarkdownVsHTML.png" alt="Razlika" width="300" />
-
+![Razlika između Markdown-a i HTML-a]({{ "/assets/images/MarkdownVsHTML.png" | relative_url }})
+_(Slika koja pokazuje razliku između Markdown-a i HTML-a)_
 
 
 # Kako koristiti Markdown?
