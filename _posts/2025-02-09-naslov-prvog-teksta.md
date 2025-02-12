@@ -10,7 +10,8 @@ tags: [markdown, jekyll, blog]
 Markdown je jednostavan jezik za formatiranje teksta koji omogućava lako pisanje i oblikovanje teksta bez potrebe za HTML-om.
 
 ## Prednosti Markdown-a:
-- **Jednostavno za učenje i korišćenje**: 
+- **Jednostavno za učenje i korišćenje**:
+
 HTML je dosta **izražajniji** jezik. Sa njim je moguće postići efekte koje je sa Markdown-om teško ili potpuno nemoguće postići. Međutim, najveća prednost Markdown-a u odnosu na HTML je u tome što je daleko jednostavniji za korišćenje, pisanje i čitanje. Takođe, Markdown zahteva daleko manje vremena za formatiranje.
 
 Prilikom formatiranja u Markdown-u, fokus je isključivo na prikazu teksta i zato je **za učenje Markdown-a dovoljno svega 10 minuta**.
@@ -22,6 +23,7 @@ Markdown se lako može pretvoriti u HTML, što je izuzetno korisno za blogove i 
 Čak i bez konvertovanja u HTML, tekst napisan u Markdown-u ostaje čitljiv.
 
 ![Razlika između Markdown-a i HTML-a]({{ "/assets/images/MarkdownVsHTML.png" | relative_url }})
+
 _(Slika koja pokazuje razliku između Markdown-a i HTML-a)_
 
 
@@ -45,6 +47,7 @@ Oznake za nabrajanje su **`-`** ili **`*`**:
 Za podebljan tekst `**` ili `__`, dok se za kurziv koristi `*` ili `_`:
 	
 	Ovo je **podebljan tekst**.
+	
 	Ovo je _kurziv_.
 
 
@@ -52,7 +55,7 @@ Za podebljan tekst `**` ili `__`, dok se za kurziv koristi `*` ili `_`:
 
 	`[tekst linka](URL)`
 
-- Na primer, `[Tekst](www.example.com)`
+Na primer, `[Tekst](www.example.com)`
 
 [Klikni da pogledaš kako ovaj tekst izgleda u Markdown-u](https://github.com/MarkoKolarevic/Deep-Dive/blob/main/_posts/2025-02-09-naslov-prvog-teksta.md?plain=1)
 
