@@ -7,12 +7,12 @@ tags: [markdown, jekyll, blog]
 
 # Šta je Markdown?
 
-Markdown je jednostavan jezik za formatiranje teksta koji omogućava lako pisanje i oblikovanje teksta bez potrebe za HTML-om.
+Markdown je jednostavan jezik za formatiranje teksta koji omogućava lako oblikovanje teksta bez potrebe za HTML-om.
 
 ## Prednosti Markdown-a:
 - **Jednostavno za učenje i korišćenje**:
 
-HTML je dosta **izražajniji** jezik. Sa njim je moguće postići efekte koje je sa Markdown-om teško ili potpuno nemoguće postići. Međutim, najveća prednost Markdown-a u odnosu na HTML je u tome što je daleko jednostavniji za korišćenje, pisanje i čitanje. Takođe, Markdown zahteva daleko manje vremena za formatiranje.
+HTML je dosta **izražajniji** jezik. Sa njim je moguće postići efekte koje je sa Markdown-om teško ili potpuno nemoguće postići. Međutim, prednost koju Markdown-a ima u odnosu na HTML je u tome što je daleko jednostavniji za korišćenje, pisanje i čitanje. Markdown zahteva daleko manje vremena za formatiranje.
 
 Prilikom formatiranja u Markdown-u, fokus je isključivo na prikazu teksta i zato je **za učenje Markdown-a dovoljno svega 10 minuta**.
 
@@ -53,12 +53,22 @@ Za podebljan tekst `**` ili `__`, dok se za kurziv koristi `*` ili `_`:
 
 - **Linkovi**: Za linkove se koristi sintaksa 
 
-	`[tekst linka](URL)`
+	**`[tekst linka](URL)`**
 
-Na primer, `[Tekst](www.example.com)`
-
-[Klikni da pogledaš kako ovaj tekst izgleda u Markdown-u](https://github.com/MarkoKolarevic/Deep-Dive/blob/main/_posts/2025-02-09-naslov-prvog-teksta.md?plain=1)
+Na primer, **`[Tekst](www.example.com)`**
 
 # Zaključak
 
 Markdown je veoma moćan alat za brzo i jednostavno formatiranje teksta što ga čini izuzetno značajnim u kreiranju sadržaja za blog ili veb sajt.
+
+Ukoliko želiš da pogledaš kako ovaj tekst izgleda u Markdown-u, klikni [ovde](https://github.com/MarkoKolarevic/Deep-Dive/blob/main/_posts/2025-02-09-naslov-prvog-teksta.md?plain=1).
+
+_Vreme je dragoceno. Zato bih želeo da Vam se zahvalim što ste deo svog vremena podelili sa mnom i pročitali ovaj post._
+
+_Nadam se da Vam je bio koristan._
+
+_Ako imate pitanja bilo kakvih pitanja, molim Vas, mene nemojte ništa da pitate. Ali, ako želite da podelite svoja razmišljanja, slobodno se javite 😊️_
+
+_Takođe, svaka sugestija ili komentar je dobrodošao._
+
+_Ako Vam se ovaj post dopao, ne zaboravite da proverite i sledeće. U budućnosti planiram još mnogo zanimljivih tema. Nadam se da ćete nastaviti da pratite i čitate, jer želim da zajedno učimo i rastemo kroz ove postove._
